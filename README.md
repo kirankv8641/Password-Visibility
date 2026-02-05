@@ -4,6 +4,8 @@ Password Visibility Toggle is a simple and responsive web application that allow
 
 👁️ Let’s secure it :- [Toggle password visibility with a single click](https://kirankv8641.github.io/Password-Visibility/)
 
+---
+
 ## ⭐ Features
 
 Show / Hide Password: Toggle password visibility using an eye icon or checkbox.
@@ -16,13 +18,18 @@ Responsive Design: Works smoothly on mobile, tablet, and desktop devices.
 
 Lightweight: Built using pure HTML, CSS, and JavaScript.
 
+---
+
 ## 📁 Project Structure
+~~~
 Password-Visibility/
 │
 ├─ index.html    # Structure of the password input and toggle
 ├─ style.css     # Styling and responsive layout
 ├─ script.js     # JavaScript logic for toggling visibility
 └─ README.md     # Project documentation
+~~~
+---
 
 ## 🛠️ Technologies Used
 
@@ -31,6 +38,8 @@ HTML5 – Structure of the web application
 CSS3 – Styling and layout design
 
 JavaScript (Vanilla JS) – Password visibility toggle logic
+
+---
 
 ## ▶️ Usage
 
@@ -44,7 +53,7 @@ Show or hide the password instantly.
 
 Improve user experience while maintaining security 🔒
 
-
+---
 
 ## 🚀 Future Improvements
 
@@ -58,9 +67,13 @@ Integrate into a complete login/signup form
 
 Improve accessibility (ARIA labels)
 
+---
+
 ## 👤 Author
 
 Kiran Vishwakarma
+
+Email: kv878432@gmail.com
 
 GitHub: https://github.com/kirankv8641
 
